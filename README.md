@@ -6,6 +6,8 @@ En el presente proyecto se comparan tres diferentes clasificadores sobre un data
 
 El csv utilizado fue generado en el repositorio [lego_minifigures_features](https://github.com/cmba-alt/lego_minifigures_features).
 
+El video con la presentación se puede ver [aquí] (https://youtu.be/gRPajPmXRQg)
+
 ## Clasificador KNN
 ![](/readme_img/knn_bd.png)
 
