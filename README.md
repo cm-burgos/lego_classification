@@ -6,4 +6,4 @@ En el presente proyecto se comparan tres diferentes clasificadores sobre un data
 
 El csv utilizado fue generado en el repositorio [lego_minifigures_features](https://github.com/cmba-alt/lego_minifigures_features).
 
-![](/readme_img/hist_sp.jpg)
+![](/readme_img/mtx_2.jpg)
